@@ -28,4 +28,4 @@ python3 main.py downloader --classes Apple Orange --type_csv train
 python3 convert_annotation.py
 ```
 
-## Check by visualization tool ![here](https://github.com/tzutalin/labelImg)
+## Check by visualization tool [here](https://github.com/tzutalin/labelImg)
