@@ -1,0 +1,2 @@
+traindata/images/classes.png
+traindata/images/rectangle.png
