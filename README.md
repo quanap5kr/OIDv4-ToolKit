@@ -5,7 +5,7 @@ Download image from Open Image Dataset v4 https://storage.googleapis.com/openima
 
 ## Clone this repository
 
-git clone https://github.com/EscVM/OIDv4_ToolKit.git
+git clone https://github.com/quanap5kr/OIDv4-ToolKit.git
 
 ## Install the required packages
 pip3 install -r requirements.txt
