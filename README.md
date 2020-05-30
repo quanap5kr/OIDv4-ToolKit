@@ -1,7 +1,6 @@
 # OIDv4-ToolKit
 Download image from Open Image Dataset v4 https://storage.googleapis.com/openimages
 
-# Python3 is required.
 
 ## Clone this repository
 
