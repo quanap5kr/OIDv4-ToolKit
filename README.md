@@ -19,12 +19,13 @@ Peek inside the requirements file if you have everything already installed. Most
 Use the following statement.
 
 ```
-
+python3 main.py downloader --classes Apple Orange --type_csv train
 ```
 
 ## Change label file to YOLO format
 
 ```
+python3 convert_annotation.py
 ```
 
 ## Check by visualization tool !(https://github.com/tzutalin/labelImg)
